@@ -1,0 +1,7 @@
+pandas
+matplotlib
+sklearn
+joblib
+tensorflow
+flask
+tslearn
